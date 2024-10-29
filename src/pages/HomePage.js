@@ -2,8 +2,8 @@ import React from 'react';
 
 const HomePage = () => {
   return (
-    <div className="container mx-auto py-4 flex flex-col gap-8 px-4">
-      <h1>Welcome</h1>
+    <div className="container mx-auto flex flex-col gap-8">
+      <h1>Under construction!</h1>
     </div>
   );
 }
